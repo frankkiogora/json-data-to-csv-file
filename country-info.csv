@@ -1,0 +1,193 @@
+countryName,year,countryCode,population
+Afghanistan,2000,af,20093756
+Egypt,2000,eg,69905988
+Albania,2000,al,3089027
+Algeria,2000,dz,31183660
+Andorra,2000,ad,65390
+Angola,2000,ao,16440924
+Austria,2000,at,8011566
+Antigua and Barbuda,2000,ag,83584
+Equatorial Guinea,2000,gq,614323
+Argentina,2000,ar,37057452
+Armenia,2000,am,3069588
+Azerbaijan,2000,az,8048600
+Ethiopia,2000,et,66537331
+Australia,2000,au,19153000
+Bahamas,2000,bs,297890
+Bahrain,2000,bh,664614
+Bangladesh,2000,bd,131581243
+Barbados,2000,bb,269847
+Belgium,2000,be,10251250
+Belize,2000,bz,247315
+Benin,2000,bj,6865951
+Bhutan,2000,bt,573416
+Bolivia,2000,bo,8339512
+Bosnia and Herzegovina,2000,ba,3766706
+Botswana,2000,bw,1728340
+Brazil,2000,br,175287587
+Brunei,2000,bn,333241
+Bulgaria,2000,bg,8170172
+Burkina Faso,2000,bf,11607942
+Burundi,2000,bi,6400706
+Chile,2000,cl,15262754
+China,2000,cn,1262645000
+Costa Rica,2000,cr,3925443
+Denmark,2000,dk,5339616
+Germany,2000,de,82211508
+Dominica,2000,dm,69676
+Dominican Republic,2000,do,8562622
+Djibouti,2000,dj,717584
+Ecuador,2000,ec,12628596
+El Salvador,2000,sv,5867626
+Ivory Coast,2000,ci,16686561
+Eritrea,2000,er,3392801
+Estonia,2000,ee,1396985
+Fiji,2000,fj,811223
+Finland,2000,fi,5176209
+France,2000,fr,60912498
+Gabon,2000,ga,1231122
+Gambia,2000,gm,1231844
+Georgia,2000,ge,4418300
+Ghana,2000,gh,18938762
+Grenada,2000,gd,101619
+Greece,2000,gr,10805808
+United Kingdom,2000,gb,58892514
+Guatemala,2000,gt,11650743
+Guinea,2000,gn,8808546
+Guinea Bissau,2000,gw,1243229
+Guyana,2000,gy,753301
+Haiti,2000,ht,8549200
+Honduras,2000,hn,6524283
+India,2000,in,1053050912
+Indonesia,2000,id,211540429
+Iraq,2000,iq,23565413
+Iran,2000,ir,66131854
+Ireland,2000,ie,3805174
+Iceland,2000,is,281205
+Italy,2000,it,56942108
+Jamaica,2000,jm,2656864
+Japan,2000,jp,126843000
+Yemen,2000,ye,17874725
+Jordan,2000,jo,5103130
+Cambodia,2000,kh,12152354
+Cameroon,2000,cm,15274234
+Canada,2000,ca,30769700
+Cape Verde,2000,cv,435079
+Kazakhstan,2000,kz,14883626
+Qatar,2000,qa,592267
+Kenya,2000,ke,31450483
+Kyrgyzstan,2000,kg,4898400
+Kiribati,2000,ki,84406
+Colombia,2000,co,40403958
+Comoros,2000,km,542357
+Democratic Republic of the Congo,2000,cd,47076387
+Republic of the Congo,2000,cg,3225727
+North Korea,2000,kp,22929075
+South Korea,2000,kr,47008111
+Kosovo,2000,xk,1700000
+Croatia,2000,hr,4426000
+Cuba,2000,cu,11150736
+Kuwait,2000,kw,2050741
+Laos,2000,la,5342879
+Lesotho,2000,ls,1868699
+Latvia,2000,lv,2367550
+Lebanon,2000,lb,3235366
+Liberia,2000,lr,2884522
+Libya,2000,ly,5355751
+Liechtenstein,2000,li,33286
+Lithuania,2000,lt,3499536
+Luxembourg,2000,lu,436300
+Madagascar,2000,mg,15766806
+Malawi,2000,mw,11376172
+Malaysia,2000,my,23185608
+Maldives,2000,mv,286000
+Mali,2000,ml,10967690
+Malta,2000,mt,390087
+Morocco,2000,ma,28849621
+Marshall Islands,2000,mh,52159
+Mauritania,2000,mr,2709359
+Mauritius,2000,mu,1186873
+Macedonia,2000,mk,2034819
+Mexico,2000,mx,101719673
+Micronesia,2000,fm,107432
+Moldova,2000,md,3639592
+Monaco,2000,mc,32082
+Mongolia,2000,mn,2397436
+Montenegro,2000,me,604950
+Mozambique,2000,mz,18067687
+Myanmar,2000,mm,46095462
+Namibia,2000,na,1899257
+Nepal,2000,np,23740911
+New Zealand,2000,nz,3857700
+Nicaragua,2000,ni,5026796
+Netherlands,2000,nl,15925513
+Niger,2000,ne,11352973
+Nigeria,2000,ng,122352009
+Norway,2000,no,4490967
+Oman,2000,om,2267991
+Pakistan,2000,pk,138523285
+Palau,2000,pw,19175
+Panama,2000,pa,3030347
+Papua New Guinea,2000,pg,5572222
+Paraguay,2000,py,5302700
+Peru,2000,pe,25914879
+Philippines,2000,ph,77991569
+Poland,2000,pl,38258629
+Portugal,2000,pt,10289898
+Puerto Rico,2000,pr,3810605
+Rwanda,2000,rw,8025703
+Romania,2000,ro,22442971
+Russia,2000,ru,146596557
+Solomon Islands,2000,sb,412609
+Zambia,2000,zm,10531221
+Samoa,2000,ws,174610
+San Marino,2000,sm,27418
+Sao Tome and Principe,2000,st,138606
+Saudi Arabia,2000,sa,20764312
+Sweden,2000,se,8872109
+Switzerland,2000,ch,7184250
+Senegal,2000,sn,9884052
+Serbia,2000,rs,7516346
+Seychelles,2000,sc,81131
+Sierra Leone,2000,sl,4564297
+Zimbabwe,2000,zw,12222251
+Singapore,2000,sg,4027887
+Slovakia,2000,sk,5388720
+Slovenia,2000,si,1988925
+Somalia,2000,so,9011479
+Spain,2000,es,40567864
+Sri Lanka,2000,lk,18655000
+St. Kitts and Nevis,2000,kn,45374
+St. Lucia,2000,lc,156949
+St. Vincent and the Grenadines,2000,vc,107898
+South Africa,2000,za,44896856
+Sudan,2000,sd,27250535
+Suriname,2000,sr,472390
+Swaziland,2000,sz,1061468
+Syria,2000,sy,16410848
+Tajikistan,2000,tj,6216205
+Tanzania,2000,tz,34178042
+Thailand,2000,th,62958021
+East Timor,2000,tl,871607
+Togo,2000,tg,4970367
+Tonga,2000,to,98082
+Trinidad and Tobago,2000,tt,1267984
+Chad,2000,td,8342559
+Czech Republic,2000,cz,10255063
+Tunisia,2000,tn,9699197
+Turkey,2000,tr,63240121
+Turkmenistan,2000,tm,4516131
+Tuvalu,2000,tv,9420
+Uganda,2000,ug,24039274
+Ukraine,2000,ua,49175848
+Hungary,2000,hu,10210971
+Uruguay,2000,uy,49175848
+Uzbekistan,2000,uz,24650400
+Vanuatu,2000,vu,185063
+Venezuela,2000,ve,24488340
+United Arab Emirates,2000,ae,3154925
+USA,2000,us,282162411
+Vietnam,2000,vn,77630900
+Belarus,2000,by,9979610
+Central African Republic,2000,cf,3754986
+Cyprus,2000,cy,943286
